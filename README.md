@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src= "https://media.giphy.com/media/9LXK53YbaDpWAGhqTO/giphy.gif" width="100"/>
+  <img src= " ![telegram-cloud-photo-size-2-5422700514384134182-y](https://user-images.githubusercontent.com/122871161/218248305-3c76cbf7-c0a7-4eb9-bd7d-d1fcfdc88092.jpg)" width="20"/>
 </div>
 
 <div id="badges" align="center">
