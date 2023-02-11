@@ -2,6 +2,11 @@
   Hi there 👋:man_technologist:
 </div>
 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Danil:man_technologist:</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">
+</div>
+
 <div id="header" align="center">
   <img src= "https://user-images.githubusercontent.com/122871161/218250657-e05bbf08-96eb-432a-8a93-c4edfcfb77c2.jpg" width="200"/>
 </div>
