@@ -8,7 +8,7 @@
 </div>
   
   <div align="center">
-  ### Hi there 👋:man_technologist:
+  <Hi there 👋:man_technologist: width="200"/>
 </div>
   
   
