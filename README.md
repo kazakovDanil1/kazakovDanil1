@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 </div>
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/a3CFnRQ6z2M1y/giphy.gif](https://media.giphy.com/media/9LXK53YbaDpWAGhqTO/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/a3CFnRQ6z2M1y/giphy.gif" width="100"/>
 </div>
