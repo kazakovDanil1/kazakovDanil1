@@ -6,8 +6,10 @@
   <a href="https://t.me/kazakov1111">
   <img src= "https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram Badge"/>
 </div>
-
-  ### Hi there 👋:man_technologist:  
+  
+  
+  <### Hi there 👋:man_technologist:  align="center">
+</div>
   
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
